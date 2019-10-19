@@ -1,0 +1,16 @@
+{
+    "name": "nb/lara_auto",
+    "authors": [
+        {
+            "name": "3A632016",
+            "email": "winnie771737@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+        }
+    }
+
+}
